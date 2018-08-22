@@ -5,8 +5,8 @@ console.php=git@github.com:hazardland/console.php.git
 core.php=git@github.com:hazardland/core.php.git
 html.php=git@github.com:hazardland/html.php.git
 user.php=git@github.com:hazardland/user.php.git
-  
-    
+termux.php=git@github.com:hazardland/termux.php.git
+poloniex.php=git@github.com:hazardland/poloniex.php.git
 
 #JavaScript
 windows.js=git@github.com:hazardland/windows.js.git
